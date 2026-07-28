@@ -10,6 +10,9 @@ domain:
 ns:
   ns.tqhyg.dn11: 172.16.80.53
 
+auth:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBLRp/ImiK1YUIkP+YEVhTmyeSHvb3f279Wyfbi0Ohgx TQHYG for DN11
+
 monitor:
   custom_node: |
     "itemStyle": {
